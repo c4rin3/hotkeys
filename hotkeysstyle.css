@@ -1,0 +1,64 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+body {
+	font-size:14px;
+	color:#000;
+}
+p{
+	padding-bottom:0.5em;
+}
+.container { 
+	position: relative; 
+	max-width: 800px; 
+	margin: 0px auto;
+	margin-top:15px;
+	height:98%;
+	
+	padding-left: 10;
+	padding-right: 10;
+}
+header{
+	padding: 10px;
+	background: #fff;
+}
+header h1{
+	font-size: 2.5em;
+}
+hr{
+	color:#999;
+	background: #777;
+	height:1px;
+	border: 0;
+}
+.infos{
+	padding: 0px 10px 10px 10px;
+	color:#666;
+	background: #fff;
+	line-height:1.2em;
+}
+img { 
+	border: 0; 
+	padding: 10px 0;
+} 
+.cachee {display: none;}
+.ihm {
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #FFFFFF;
+}
+.ihm form input{
+	max-width:100%;
+}
+.ihm form input, select{
+	margin-bottom:10px;
+}
+.font{
+	padding: 10px;
+}
+#debu {display: none;}
